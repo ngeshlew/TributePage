@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
 
 ::selection {
     color: #FFF;
-    background: #0000FF;
+    background: #03a9f5;
 }
 
 .nopadding {
@@ -256,7 +256,7 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.3;
 	color: #FFFFFF;
 	padding: 5px 10px;
-	background: #0000FF;
+	background: #03a9f5;
 	display: inline-block;
 }
 
@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .intro-1 h1 {
 	font-size: 42px;
-  color: #0000FF;
+  color: #03a9f5;
   line-height: 1.3;
   font-family: 'Playfair Display';
   font-weight: 900;
@@ -338,14 +338,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .intro-1 a {
-	color: #3333FF;
+	color: #03a9f5;
 	text-decoration: none;
 }
 
 .intro-1 i {
 	display: inline-block;
 	font-size: 42px;
-	color: #3333FF;
+	color: #03a9f5;
 	margin-top: 30px;
 	text-decoration: none;
 }
@@ -358,13 +358,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .profile {
 	padding: 100px 0 0 0;
+	margin-bottom: 100px;
 	background: #FFFFFF;
 	position: relative;
 }
 
 
 .profile .container::before {
-	content: "My Profile";
+	content: "Mahatma Gandhi timeline";
 	position: absolute;
 	left: 20px;
 	top: 50px;
@@ -825,7 +826,7 @@ label {
 
 .footer {
 	padding: 100px 0 50px 0;
-	background: #3333FF;
+	background: #03a9f5;
 	/*position: fixed;
 	left: 0px;
   bottom: 0px;
@@ -915,7 +916,7 @@ label {
 
 
 .back-to-top {
-	background: #3333FF;
+	background: #03a9f5;
 	margin: 0;
 	position: fixed;
 	bottom: 30px;
@@ -943,7 +944,7 @@ label {
 }
 
 .back-to-top:hover {
-  background: #3333FF;
+  background: #03a9f5;
   color: #FFFFFF;
 }
 
