@@ -478,38 +478,38 @@ h1, h2, h3, h4, h5, h6 {
 	color: #111;
 }
 
-.singular-portfolio-item  {
+.ngeshlew-portfolio-item  {
 	text-decoration: none;
 }
 
-.singular-portfolio-item img {
+.ngeshlew-portfolio-item img {
 	opacity: 0.6;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
 	transition: opacity 0.5s;
 }
 
-.singular-portfolio-item:hover img {
+.ngeshlew-portfolio-item:hover img {
 	opacity: 1;
 }
 
 
-.singular-portfolio-item:hover, .singular-portfolio-item:focus  {
+.ngeshlew-portfolio-item:hover, .ngeshlew-portfolio-item:focus  {
 	text-decoration: none;
 }
 
-.singular-project-content {
+.ngeshlew-project-content {
 	padding: 30px 0 50px 0;
 }
 
-.singular-project-content h1 {
+.ngeshlew-project-content h1 {
 	font-family: Roboto;
 	font-size: 18px;
 	font-weight: 400;
 	color: #404040;
 }
 
-.singular-project-content p {
+.ngeshlew-project-content p {
 	font-family: Roboto;
 	font-size: 16px;
 	font-weight: 300;
